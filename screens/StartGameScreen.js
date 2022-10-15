@@ -4,7 +4,11 @@ import PrimaryButton from '../components/PrimaryButton';
 const StartGameScreen = () => {
   return (
     <View style={styles.inputContainer}>
-      <TextInput style={styles.numberInupt} maxLength={2} />
+      <TextInput
+        style={styles.numberInupt}
+        maxLength={2}
+        keyboardType='number-pad'
+      />
       <PrimaryButton>Reset</PrimaryButton>
       <PrimaryButton>Confirm</PrimaryButton>
     </View>
