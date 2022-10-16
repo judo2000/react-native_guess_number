@@ -113,6 +113,7 @@ const styles = StyleSheet.create({
   screen: {
     flex: 1,
     padding: 24,
+    marginTop: 36,
   },
   title: {
     fontSize: 24,
