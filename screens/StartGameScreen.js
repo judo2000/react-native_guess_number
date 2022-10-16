@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
   },
   numberInupt: {
     height: 50,
-    width: 50,
+    width: 80,
     fontSize: 32,
     borderBottomColor: '#ddb52f',
     borderBottomWidth: 2,
