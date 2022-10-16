@@ -28,7 +28,7 @@ There is also a 'Start New Game' button.
 
 ## Installation Instructions
 
-![!Guess_The_Number](img/StartScreen.png)
+![!Guess_The_Number](img/startScreen.png)
 
   <ul>
     <li>Clone this repo by entering the folling command from the command prompt: <code>https://github.com/judo2000/react-native_guess_number.git</code></li><li>Change into the new director: <code>cd react-native_guess_number</code></li>
