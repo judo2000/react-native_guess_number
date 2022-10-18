@@ -8,7 +8,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import StartGameScreen from './screens/StartGameScreen';
 import GameScreen from './screens/GameScreen';
 import GameOverScreen from './screens/GameOverScreen';
-import Colors from './constants/Colors';
+import Colors from './constants/Colors.ios';
 
 export default function App() {
   const [userNumber, setUserNumber] = useState();
